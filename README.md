@@ -2,6 +2,7 @@
 
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Swift3 Compatible](https://img.shields.io/badge/KGVibratingView-Swift3-brightgreen.svg)](https://img.shields.io/badge/KGVibratingView-Swift3-brightgreen.svg)
+[![CocoaPods](https://img.shields.io/cocoapods/v/KGVibratingView.svg)](https://github.com/Gypsyan/KGVibratingView)
 
 `KGVibratingView` enable custom vibrating action on the iOS View elements
 
