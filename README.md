@@ -65,7 +65,7 @@ You can select multiple options in the `startShakingWith` method.
 * numberOfTimes
 * totalDuration
 
-Insprired from this https://github.com/haaakon/SingleLineShakeAnimation
+Inspired from this https://github.com/haaakon/SingleLineShakeAnimation
 
 # License
 
